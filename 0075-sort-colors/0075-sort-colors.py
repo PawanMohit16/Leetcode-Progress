@@ -3,34 +3,24 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        def merge_sort(arr):
-            if len(arr) <= 1:
-                return arr
+        low = 0
+        mid = 0
+        high = len(nums) - 1
 
-            mid = len(arr) // 2
-            left = merge_sort(arr[:mid])
-            right = merge_sort(arr[mid:])
+        while mid <= high:
+            if nums[mid] == 1:
+                mid += 1
 
-            return merge(left, right)
+            elif nums[mid] == 2:
+                nums[mid], nums[high] = nums[high], nums[mid]
+                high -= 1
 
-        def merge(left, right):
-            result = []
-            i = j = 0
+            else:
+                nums[mid], nums[low] = nums[low], nums[mid]
+                mid += 1
+                low += 1
 
-            while i < len(left) and j < len(right):
-                if left[i] <= right[j]:
-                    result.append(left[i])
-                    i += 1
-                else:
-                    result.append(right[j])
-                    j += 1
-
-            result.extend(left[i:])
-            result.extend(right[j:])
-            return result
-
-        nums[:] = merge_sort(nums)
-
+             
 
 
         
