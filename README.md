@@ -47,6 +47,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0155-min-stack) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0937-online-stock-span) |
 ## Divide and Conquer
@@ -91,6 +92,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
