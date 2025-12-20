@@ -11,6 +11,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
+| [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,4 +112,12 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
+## Simulation
+|  |
+| ------- |
+| [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
 <!---LeetCode Topics End-->
