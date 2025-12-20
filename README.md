@@ -49,6 +49,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0155-min-stack](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0937-online-stock-span) |
 ## Divide and Conquer
@@ -95,6 +96,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0155-min-stack](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -108,4 +110,5 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
