@@ -1,21 +1,16 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-    
         ans = {}
 
         for word in strs:
-            mydict = {}
-            for letter in word:
-                if letter not in mydict:
-                    mydict[letter] = 1
-                else:
-                    mydict[letter] += 1
-            
-            key = tuple(sorted(mydict.items()))                
+            count = [0] * 26
+            for c in word:
+                count[ord(c) - ord('a')] += 1
+
+            key = tuple(count)
 
             if key not in ans:
                 ans[key] = [word]
-
             else:
                 ans[key].append(word)
 
