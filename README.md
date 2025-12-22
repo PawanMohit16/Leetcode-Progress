@@ -7,6 +7,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
@@ -34,6 +35,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## String Matching
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -140,4 +142,8 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0173-binary-search-tree-iterator) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
