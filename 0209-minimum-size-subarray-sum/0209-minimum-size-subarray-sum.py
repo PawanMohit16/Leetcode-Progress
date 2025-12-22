@@ -3,22 +3,22 @@ class Solution:
         
         left = 0
         right = 0
-        window = []
+        result = 10 ** 5 + 1
         mysum = 0
 
-        while left <= right and right < len(nums):
+        for right in range(len(nums)):
             mysum += nums[right]
             while mysum >= target:
-                window.append(right - left +  1) 
+                result = min(result, right - left +  1) 
                 mysum -= nums[left]
                 left += 1
         
             right += 1
 
-        if window:
-            return min(window)
-        else:
+        if result == 10 ** 5 + 1:
             return 0
+        else:
+            return result
 
 
         
