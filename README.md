@@ -8,6 +8,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0001-two-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
@@ -17,6 +18,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
@@ -36,6 +38,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -71,6 +74,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
