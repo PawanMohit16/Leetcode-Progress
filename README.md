@@ -24,6 +24,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
 ## Tree
 |  |
@@ -44,6 +45,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -110,6 +112,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
+| [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 ## Breadth-First Search
 |  |
@@ -164,6 +167,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
