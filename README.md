@@ -23,6 +23,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
 | [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
+| [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
+| [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -101,6 +103,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
+| [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
