@@ -8,6 +8,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0001-two-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
@@ -30,6 +31,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0001-two-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
@@ -167,6 +169,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
 ## Simulation
 |  |
