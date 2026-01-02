@@ -10,6 +10,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
@@ -133,6 +134,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
@@ -144,6 +146,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0173-binary-search-tree-iterator) |
@@ -156,6 +159,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0937-online-stock-span) |
@@ -210,6 +214,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
