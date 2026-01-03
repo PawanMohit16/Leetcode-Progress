@@ -19,6 +19,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0735-asteroid-collision) |
