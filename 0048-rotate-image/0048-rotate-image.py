@@ -4,7 +4,7 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         n = len(matrix)
-        for i in range(1,n):
+        for i in range(n):
             for j in range(i):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j] 
 
