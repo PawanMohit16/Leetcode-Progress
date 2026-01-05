@@ -230,6 +230,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
