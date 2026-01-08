@@ -19,6 +19,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
@@ -41,6 +42,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0036-valid-sudoku](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
@@ -235,4 +237,8 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0007-reverse-integer](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0412-fizz-buzz) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
