@@ -24,6 +24,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +117,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
@@ -203,6 +206,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 ## Iterator
 |  |
@@ -238,9 +242,14 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0007-reverse-integer](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0412-fizz-buzz) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
