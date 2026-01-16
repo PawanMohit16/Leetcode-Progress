@@ -6,13 +6,14 @@ class Solution:
 
         while low <= high:
             mid = (high + low) // 2
-            minie = min(minie, nums[mid])
+
 
             if nums[low] <= nums[mid]:
                 minie = min(minie, nums[low])
                 low = mid + 1
 
             else:
+                minie = min(minie, nums[mid])
                 high = mid - 1
 
 
