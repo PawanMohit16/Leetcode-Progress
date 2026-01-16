@@ -30,6 +30,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0735-asteroid-collision) |
@@ -213,6 +214,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0173-binary-search-tree-iterator](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 ## Iterator
 |  |
