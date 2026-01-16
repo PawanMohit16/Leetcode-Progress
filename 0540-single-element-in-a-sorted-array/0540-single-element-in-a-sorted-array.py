@@ -7,9 +7,9 @@ class Solution:
             mid = (low + high) // 2
 
             if mid % 2 == 0:
-                if mid < n-1 and nums[mid] == nums[mid + 1]:
+                if mid < n-2 and nums[mid] == nums[mid + 1]:
                     low = mid + 2
-                elif mid > 0 and nums[mid] == nums[mid - 1]:
+                elif mid > 1 and nums[mid] == nums[mid - 1]:
                     high = mid - 2
                 else:
                     return nums[mid]
