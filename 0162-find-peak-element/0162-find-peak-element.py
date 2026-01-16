@@ -3,17 +3,20 @@ class Solution:
         low, high = 0, len(nums) - 1
         n = high + 1
 
+        if n == 1 or nums[0] > nums[1]:
+            return 0
+
+        if nums[n-1] > nums[n-2]:
+            return high
+
         while low <= high:
             mid = (low + high) // 2
 
-            if 0 < mid < n - 1 and nums[mid - 1] < nums[mid] > nums[mid + 1]:
+            if nums[mid - 1] < nums[mid] > nums[mid + 1]:
                 return mid
 
-            elif mid < n - 1 and nums[mid + 1] > nums[mid]:
+            elif nums[mid + 1] > nums[mid]:
                 low = mid + 1  
 
-            elif mid > 0 and nums[mid - 1] > nums[mid]:
-                high = mid - 1
-
             else:
-                return low
+                high = mid - 1
