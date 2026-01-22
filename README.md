@@ -86,6 +86,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0424-longest-repeating-character-replacement](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0812-rotate-string) |
 ## Binary Tree
 |  |
 | ------- |
