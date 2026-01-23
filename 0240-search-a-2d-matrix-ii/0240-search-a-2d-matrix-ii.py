@@ -3,13 +3,10 @@ class Solution:
 
         r = 0
         c = len(matrix[0])-1
-
         nr = len(matrix)-1
-        nc = len(matrix[0])-1
 
-        while 0 <= r <= nr and c >= 0:
-            print(r,c)
-            print(matrix[r][c])
+        while r <= nr and c >= 0:
+
             if matrix[r][c] == target:
                 return True
 
@@ -21,9 +18,4 @@ class Solution:
             
             
                 
-
-        if 0 <= r <= nr and c >= 0 and matrix[r][c] == target:
-            return True
-
-        else:
-            return False
+        return False
