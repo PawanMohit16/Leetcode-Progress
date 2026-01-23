@@ -29,6 +29,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
@@ -119,6 +120,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -204,6 +206,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0036-valid-sudoku](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
 ## Simulation
 |  |
@@ -223,6 +226,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0162-find-peak-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
