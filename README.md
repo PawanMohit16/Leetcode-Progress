@@ -81,6 +81,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
@@ -259,6 +260,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
@@ -284,4 +286,8 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
