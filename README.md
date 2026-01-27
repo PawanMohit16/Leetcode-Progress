@@ -28,6 +28,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0189-rotate-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
