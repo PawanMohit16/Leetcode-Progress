@@ -1,26 +1,21 @@
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
-        target = ord(target)
-        minie = 3000
-
+    
+        n = len(letters)
         low = 0
-        high = len(letters) - 1
+        high = n
 
-        while low <= high:
+        while low < high:
             mid = (low + high) // 2
-            temp = ord(letters[mid])
-            if temp == target + 1:
-                return letters[mid]
 
-            elif temp > target:
-                minie = min(minie, temp)
-                high = mid - 1
-            
+            if letters[mid] > target:
+                high = mid
+
             else:
                 low = mid + 1
 
-        if minie == 3000:
+        if low >= n:
             return letters[0]
         else:
-            return chr(minie)
+            return letters[low]
 
