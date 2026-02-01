@@ -47,6 +47,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
 | [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -299,4 +301,8 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
