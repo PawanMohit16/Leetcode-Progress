@@ -19,7 +19,4 @@ class Solution:
             else:
                 mymap2[letter] += 1
 
-        print(mymap)
-        print(mymap2)
-
         return mymap == mymap2
