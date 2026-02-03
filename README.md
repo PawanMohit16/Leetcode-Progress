@@ -281,6 +281,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0007-reverse-integer](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0412-fizz-buzz) |
@@ -305,4 +306,8 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
