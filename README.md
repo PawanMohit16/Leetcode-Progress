@@ -95,6 +95,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Tree
 |  |
@@ -197,6 +198,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0735-asteroid-collision](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0937-online-stock-span) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
