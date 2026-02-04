@@ -68,6 +68,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
 | [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +97,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0572-subtree-of-another-tree](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Tree
 |  |
@@ -170,6 +172,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
