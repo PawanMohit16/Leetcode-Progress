@@ -1,41 +1,28 @@
 class Solution:
-    def survivedRobotsHealths(self, positions: List[int], healths: List[int], directions: str) -> List[int]:
+    def survivedRobotsHealths(self, positions, healths, directions):
 
-        items = []
+        robots = sorted(zip(positions, range(len(positions)), healths, directions))
         stack = []
-        n = len(positions)
-        
-        for i in range(n):
-            items.append([positions[i], i, healths[i], directions[i]])
-        items.sort()
 
-        for i in range(n):
-            if stack:
-                while stack and stack[-1][-1] == 'R' and items[i][-1] == 'L':
-                    if stack[-1][1] == items[i][2]:
-                        stack.pop()
-                        items[i][2] = 0
-                        break
-                    elif items[i][2] > stack[-1][1]:
-                        items[i][2] -= 1
-                        stack.pop()
-                    else:
-                        stack[-1][1] -= 1
-                        items[i][2] = 0
-                        break
+        for pos, idx, health, direction in robots:
 
-                    
-                if items[i][2] > 0:
-                    stack.append([items[i][1], items[i][2], items[i][-1]])
-            else:
-                stack.append([items[i][1], items[i][2], items[i][-1]])
+            while stack and stack[-1][2] == 'R' and direction == 'L':
+                top_idx, top_health, top_dir = stack[-1]
 
-        res = []
-        stack.sort()  # sorts by original index
+                if top_health == health:
+                    stack.pop()
+                    health = 0
+                    break
+                elif health > top_health:
+                    health -= 1
+                    stack.pop()
+                else:
+                    stack[-1][1] -= 1
+                    health = 0
+                    break
 
-        res = []
-        for i, j, k in stack:
-            res.append(j)
+            if health > 0:
+                stack.append([idx, health, direction])
 
-        return res
-
+        stack.sort()
+        return [h for _, h, _ in stack]
