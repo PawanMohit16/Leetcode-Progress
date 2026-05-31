@@ -8,6 +8,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0001-two-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0036-valid-sudoku) |
@@ -135,6 +136,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
@@ -176,6 +178,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
