@@ -63,6 +63,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
@@ -118,6 +119,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0355-design-twitter](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0908-middle-of-the-linked-list) |
 ## Design
@@ -127,6 +129,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0173-binary-search-tree-iterator](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0937-online-stock-span) |
 ## Divide and Conquer
@@ -155,6 +158,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
