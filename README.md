@@ -37,6 +37,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -67,6 +68,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
 | [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -144,6 +146,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
@@ -153,6 +156,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -173,6 +177,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -305,6 +310,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
