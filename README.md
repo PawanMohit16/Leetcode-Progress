@@ -100,6 +100,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
@@ -115,6 +116,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
+| [1508-longest-happy-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1508-longest-happy-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -333,4 +335,8 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0050-powx-n) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
