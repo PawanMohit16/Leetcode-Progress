@@ -300,6 +300,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +311,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Union Find
 |  |
 | ------- |
