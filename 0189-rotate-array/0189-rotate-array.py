@@ -3,35 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-
         n = len(nums)
+        if n == 1:
+            return
+
         k = k % n
-        if k == 0 or  n == 1:
-            return nums
+        for i in range(n // 2):
+            nums[i], nums[n-i-1] = nums[n-i-1], nums[i]
 
-        l = 0
-        r = n - 1
+        for i in range(k//2):
+            nums[i], nums[k-i-1] = nums[k-i-1], nums[i]
 
-        while l < r:
-            nums[l], nums[r] = nums[r], nums[l]
-            l += 1
-            r -= 1
-
-        l = 0
-        r = k-1
-
-        while l < r:
-            nums[l], nums[r] = nums[r], nums[l]
-            l += 1
-            r -= 1
-
-
-        l = k
-        r = n-1
-        
-        while l < r:
-            nums[l], nums[r] = nums[r], nums[l]
-            l += 1
-            r -= 1
-        
-
+        for i in range(k, (k + n) // 2):
+            nums[i], nums[n-i+k-1] = nums[n-i+k-1], nums[i]
+            
