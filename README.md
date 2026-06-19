@@ -50,6 +50,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -301,6 +302,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
+| [1833-find-the-highest-altitude](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
