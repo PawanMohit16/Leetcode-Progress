@@ -25,6 +25,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0189-rotate-array) |
@@ -330,6 +331,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 ## Greedy
 |  |
