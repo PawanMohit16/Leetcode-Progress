@@ -28,6 +28,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0136-single-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
@@ -64,6 +65,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0041-first-missing-positive](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
@@ -147,6 +149,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -156,6 +159,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0049-group-anagrams](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
@@ -192,6 +196,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
