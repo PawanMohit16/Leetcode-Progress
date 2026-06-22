@@ -101,6 +101,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0151-reverse-words-in-a-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
@@ -225,6 +226,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0173-binary-search-tree-iterator](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
@@ -234,6 +236,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0937-online-stock-span) |
@@ -336,6 +339,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
