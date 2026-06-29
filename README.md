@@ -25,6 +25,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0162-find-peak-element) |
@@ -344,6 +345,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
