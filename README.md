@@ -20,6 +20,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
