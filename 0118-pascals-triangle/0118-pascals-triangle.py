@@ -9,9 +9,10 @@ class Solution:
                 temp.append(1)
 
             arr.append(temp)
-
-        for i in range(2, n):
-            for j in range(1, len(arr[i-1])):
-                arr[i][j] = arr[i-1][j-1]+arr[i-1][j]
+        
+        if n > 2:
+            for i in range(2, n):
+                for j in range(1, i):
+                    arr[i][j] = arr[i-1][j-1]+arr[i-1][j]
 
         return arr
