@@ -1,13 +1,21 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-
-        ans = []
-
-        for i in range(1, numRows + 1):
+        n = numRows
+        arr = []
         
-            insider = [1] * i
-            for j in range(1, i-1):
-                insider[j] = ans[-1][j-1] + ans[-1][j]
-            ans.append(insider)
+        for i in range(n-1,-1,-1):
+            temp = []
+            for j in range(i, n):
+                temp.append(1)
 
-        return ans
+            arr.append(temp)
+
+        if n > 2:
+            for i in range(2, n):
+                print(len(arr[i]))
+                for j in range(len(arr[i-1])-1):
+                    arr[i][j+1] = arr[i-1][j]+arr[i-1][j+1]
+
+
+
+        return arr
