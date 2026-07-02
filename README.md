@@ -337,6 +337,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0050-powx-n](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
@@ -372,4 +373,8 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1508-longest-happy-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
