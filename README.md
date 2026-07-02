@@ -54,6 +54,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0907-koko-eating-bananas](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
 | [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1833-find-the-highest-altitude) |
@@ -314,11 +315,13 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0424-longest-repeating-character-replacement](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
