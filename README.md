@@ -53,6 +53,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
+| [1140-distant-barcodes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1140-distant-barcodes) |
 | [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -85,6 +86,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0816-design-hashset) |
+| [1140-distant-barcodes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1140-distant-barcodes) |
 | [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
@@ -176,6 +178,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
+| [1140-distant-barcodes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1140-distant-barcodes) |
 | [1752-arithmetic-subarrays](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1752-arithmetic-subarrays) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
@@ -187,6 +190,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
+| [1140-distant-barcodes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1140-distant-barcodes) |
 ## Merge Sort
 |  |
 | ------- |
@@ -209,6 +213,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0451-sort-characters-by-frequency](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0948-sort-an-array) |
+| [1140-distant-barcodes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1140-distant-barcodes) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -362,6 +367,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0135-candy](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
+| [1140-distant-barcodes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1140-distant-barcodes) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
