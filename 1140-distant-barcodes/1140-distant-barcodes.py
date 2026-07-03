@@ -9,7 +9,6 @@ class Solution:
                 hashmap[num] += 1
 
 
-        print(hashmap)
         item, freq = zip(*sorted(hashmap.items(), reverse=True, key=lambda x: x[1]))
 
         items = list(item)
