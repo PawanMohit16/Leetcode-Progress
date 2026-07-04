@@ -22,6 +22,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0054-spiral-matrix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
@@ -281,6 +282,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0036-valid-sudoku](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0733-flood-fill) |
 | [1342-queens-that-can-attack-the-king](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1342-queens-that-can-attack-the-king) |
@@ -342,6 +344,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0022-generate-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
