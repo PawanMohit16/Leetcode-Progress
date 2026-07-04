@@ -40,6 +40,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0540-single-element-in-a-sorted-array) |
@@ -227,6 +228,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0151-reverse-words-in-a-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
@@ -302,6 +304,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0209-minimum-size-subarray-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -363,6 +366,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | ------- |
 | [0136-single-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
