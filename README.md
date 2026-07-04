@@ -27,6 +27,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0075-sort-colors](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0135-candy) |
@@ -350,6 +351,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0063-unique-paths-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Math
