@@ -344,6 +344,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0022-generate-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -354,6 +355,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0007-reverse-integer](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0319-bulb-switcher) |
@@ -398,4 +400,8 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0319-bulb-switcher) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
