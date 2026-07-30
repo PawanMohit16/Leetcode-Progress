@@ -128,6 +128,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -366,6 +367,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0319-bulb-switcher](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Union Find
 |  |
@@ -385,6 +387,7 @@ This is a repository of my LeetCode solutions where I track my LeetCode progress
 | [0621-task-scheduler](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/0621-task-scheduler) |
 | [1140-distant-barcodes](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/1140-distant-barcodes) |
 | [2032-largest-odd-number-in-string](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/2032-largest-odd-number-in-string) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/PawanMohit16/Leetcode-Progress/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
